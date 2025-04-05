@@ -1,4 +1,4 @@
-package HW2;
+package HW3;
 
 import javafx.scene.Scene;
 

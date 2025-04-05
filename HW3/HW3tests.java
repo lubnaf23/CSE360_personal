@@ -1,7 +1,9 @@
-package HW2;
+package HW3;
 import static org.junit.Assert.*;
 import org.junit.Before;
 import org.junit.Test;
+import HW3.Questions;
+import HW3.Answers;
 
 /**
  * JUnit test class for testing the Questions and Answers functionalities for this discussion board.

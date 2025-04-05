@@ -1,4 +1,4 @@
-package HW2;
+package HW3;
 
 /**
  * The User class represents a user entity in the system.
