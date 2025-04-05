@@ -1,5 +1,13 @@
-# Q/A System
+# Q/A System Currently Homework 3
 #### -Lubna Firdaus
+
+Homework 3: https://github.com/lubnaf23/CSE360_personal/blob/main/HW3
+HW3 tests: https://github.com/lubnaf23/CSE360_personal/blob/main/HW3/HW3tests.java
+JAVADOC LINK complete folder: https://github.com/lubnaf23/CSE360_personal/tree/main/HW3/javadoc_output
+JAVADOC HW3 tests: https://github.com/lubnaf23/CSE360_personal/tree/main/HW3/javadoc_output/HW3
+screencast homework 3: https://github.com/lubnaf23/CSE360_personal/tree/main/HW3/hw3%20_screencast
+
+
 
 A simple Question and Answer system that allows users with different roles (Admin, Student, etc.) to interact with each other. Admins can manage users and view all users, while students can ask and view questions.
 
