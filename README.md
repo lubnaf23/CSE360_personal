@@ -3,6 +3,7 @@
 
 - Homework 3: https://github.com/lubnaf23/CSE360_personal/blob/main/HW4
 - staff role: https://github.com/lubnaf23/CSE360_personal/blob/main/HW4/Staff.java
+- Test: https://github.com/lubnaf23/CSE360_personal/blob/main/HW4/StaffTest.java
 - JAVADOC LINK complete folder: https://github.com/lubnaf23/CSE360_personal/tree/main/HW4/javadoc_output
 - JAVADOC HW3 tests: https://github.com/lubnaf23/CSE360_personal/tree/main/HW4/javadoc_output/HW4
 - screencast homework 3: https://github.com/lubnaf23/CSE360_personal/tree/main/HW4/hw4%20_screencast
