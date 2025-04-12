@@ -1,11 +1,11 @@
-# Q/A System Currently Homework 3
+# Q/A System Currently Homework 4
 #### -Lubna Firdaus
 
-- Homework 3: https://github.com/lubnaf23/CSE360_personal/blob/main/HW3
-- HW3 tests: https://github.com/lubnaf23/CSE360_personal/blob/main/HW3/HW3tests.java
-- JAVADOC LINK complete folder: https://github.com/lubnaf23/CSE360_personal/tree/main/HW3/javadoc_output
-- JAVADOC HW3 tests: https://github.com/lubnaf23/CSE360_personal/tree/main/HW3/javadoc_output/HW3
-- screencast homework 3: https://github.com/lubnaf23/CSE360_personal/tree/main/HW3/hw3%20_screencast
+- Homework 3: https://github.com/lubnaf23/CSE360_personal/blob/main/HW4
+- staff role: https://github.com/lubnaf23/CSE360_personal/blob/main/HW4/Staff.java
+- JAVADOC LINK complete folder: https://github.com/lubnaf23/CSE360_personal/tree/main/HW4/javadoc_output
+- JAVADOC HW3 tests: https://github.com/lubnaf23/CSE360_personal/tree/main/HW4/javadoc_output/HW4
+- screencast homework 3: https://github.com/lubnaf23/CSE360_personal/tree/main/HW4/hw4%20_screencast
 
 
 
