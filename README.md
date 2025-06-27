@@ -1,14 +1,4 @@
-# Q/A System Currently Homework 4
-#### -Lubna Firdaus
-
-- Homework 3: https://github.com/lubnaf23/CSE360_personal/blob/main/HW4
-- staff role: https://github.com/lubnaf23/CSE360_personal/blob/main/HW4/Staff.java
-- Test: https://github.com/lubnaf23/CSE360_personal/blob/main/HW4/StaffTest.java
-- JAVADOC LINK complete folder: https://github.com/lubnaf23/CSE360_personal/tree/main/HW4/javadoc_output
-- JAVADOC HW3 tests: https://github.com/lubnaf23/CSE360_personal/tree/main/HW4/javadoc_output/HW4
-- screencast homework 4: https://github.com/lubnaf23/CSE360_personal/tree/main/HW4/HW4_screencast
-
-
+# Q/A System
 
 A simple Question and Answer system that allows users with different roles (Admin, Student, etc.) to interact with each other. Admins can manage users and view all users, while students can ask and view questions.
 
@@ -33,5 +23,4 @@ A simple Question and Answer system that allows users with different roles (Admi
 4. Menu System: After logging in, the program shows a menu based on the user's role (Admin or Student) with different options.
 5. Exiting: Users can exit the program at any time.
 
-screencast: https://github.com/lubnaf23/CSE360_personal/blob/main/hw2%20screencast.mp4
 
